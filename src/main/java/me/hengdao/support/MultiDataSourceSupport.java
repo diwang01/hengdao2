@@ -5,7 +5,7 @@ import java.util.Map;
 
 /**
  * @Description: 多数据库支持接口
- * @author Kolor
+ * @author wangdi5
  * @date 2012-8-2 下午4:13:19
  */
 public interface MultiDataSourceSupport {

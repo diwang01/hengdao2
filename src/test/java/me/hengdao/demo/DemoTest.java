@@ -7,7 +7,7 @@ import me.hengdao.demo.service.UserService;
 
 /**
  * 
- * @author Kolor
+ * @author wangdi5
  */
 public class DemoTest {
 

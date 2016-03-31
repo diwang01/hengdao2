@@ -9,14 +9,14 @@
 	</appender>
 	<appender name="hsf"
 		class="ch.qos.logback.core.rolling.RollingFileAppender">
-		<File>d:/logs/summercool/hsf.log</File>
+		<File>d:/logs/wangdi5/hsf.log</File>
 		<Append>true</Append>
 		<encoder>
 			<pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger - %msg%n
 			</pattern>
 		</encoder>
 		<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
-			<fileNamePattern>d:/logs/summercool/hsf.log.%d{yyyy-MM-dd}</fileNamePattern>
+			<fileNamePattern>d:/logs/wangdi5/hsf.log.%d{yyyy-MM-dd}</fileNamePattern>
 			<maxHistory>30</maxHistory>
 		</rollingPolicy>
 	</appender>

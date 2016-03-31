@@ -10,7 +10,7 @@ import java.util.Map;
 
 /**
  * @Description: 事务处理相关数据持有者
- * @author Kolor
+ * @author wangdi5
  * @date 2012-8-3 下午1:54:29
  */
 public class TransactionHolder {

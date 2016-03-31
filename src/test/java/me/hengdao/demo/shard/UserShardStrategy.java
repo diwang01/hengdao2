@@ -10,7 +10,7 @@ import java.util.Map;
 
 /**
  * 
- * @author Kolor
+ * @author wangdi5
  */
 public class UserShardStrategy extends ShardStrategy {
 

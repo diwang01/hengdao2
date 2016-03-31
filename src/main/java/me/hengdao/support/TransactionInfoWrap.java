@@ -6,7 +6,7 @@ import org.springframework.transaction.interceptor.TransactionAttribute;
 
 /**
  * @Description: 事务信息包装类
- * @author Kolor
+ * @author wangdi5
  * @date 2012-8-3 下午2:07:47
  */
 public class TransactionInfoWrap {

@@ -4,7 +4,7 @@ import me.hengdao.demo.dao.entity.UserEntity;
 
 /**
  *  
- * @author Kolor
+ * @author wangdi5
  */
 public interface UserDao {
 	public boolean insertUser(UserEntity user);

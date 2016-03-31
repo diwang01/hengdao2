@@ -6,7 +6,7 @@ import me.hengdao.demo.dao.entity.UserEntity;
 import me.hengdao.support.SqlSessionDaoSupport;
 
 /**
- * @author Kolor
+ * @author wangdi5
  */
 public class UserDaoImpl extends SqlSessionDaoSupport implements UserDao {
 

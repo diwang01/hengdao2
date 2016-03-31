@@ -28,7 +28,7 @@ import java.util.Properties;
 
 /**
  * 对事务拦截器org.springframework.transaction.interceptor.TransactionInterceptor的扩展，以支持分库事务控制。
- * @author Kolor
+ * @author wangdi5
  */
 @SuppressWarnings("serial")
 public class ExtTransactionInterceptor extends TransactionInterceptor implements MethodInterceptor, Serializable {
@@ -183,7 +183,7 @@ public class ExtTransactionInterceptor extends TransactionInterceptor implements
 
 	/**
 	 * 
-	 * @author Kolor
+	 * @author wangdi5
 	 * @param @param txInfo
 	 * @return void
 	 */

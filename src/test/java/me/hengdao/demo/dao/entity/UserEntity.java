@@ -1,7 +1,7 @@
 package me.hengdao.demo.dao.entity;
 /**
  *  
- * @author Kolor
+ * @author wangdi5
  */
 public class UserEntity {
 	private long id;

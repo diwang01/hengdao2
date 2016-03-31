@@ -1,7 +1,7 @@
 package me.hengdao.demo.service;
 /**
  *  
- * @author Kolor
+ * @author wangdi5
  */
 public interface UserService {
 	public void testAddUsers();

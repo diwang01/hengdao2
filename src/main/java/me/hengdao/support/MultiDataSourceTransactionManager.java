@@ -27,7 +27,7 @@ import java.util.concurrent.atomic.AtomicBoolean;
 
 /**
  * @Description: 多数据库事务管理实现类
- * @author Kolor
+ * @author wangdi5
  * @date 2012-8-2 下午4:16:16
  */
 public class MultiDataSourceTransactionManager extends AbstractPlatformTransactionManager implements
